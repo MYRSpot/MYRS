@@ -1,0 +1,6 @@
+{
+  "name": "MYR Spot",
+  "symbol": "MYRS",
+  "description": "MYR Spot (MYRS) is a stablecoin that is pegged at 1:1 ratio to the Malaysian Ringgit (MYR).",
+  "image": "https://raw.githubusercontent.com/MYRSpot/MYRS/main/myrs.png"
+}
